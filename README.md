@@ -3,6 +3,7 @@ Related to machine learning fundamentals from Data Science Extension School
 
 
 ## Coding Exercise<br/>
+Diverse coding exercises associated with lessons learned from class<br/>
 
 Number | Topic | Notes | Link
 :---: | :---: | :---: | :---:
